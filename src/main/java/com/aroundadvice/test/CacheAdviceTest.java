@@ -21,6 +21,9 @@ public class CacheAdviceTest {
 		System.out.println(sum1);
 		int sum2 = proxy.add(10, 20);
 		System.out.println(sum2);
+		
+		int i =10;
+		int j = 20;
 	}
 
 }
